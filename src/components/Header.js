@@ -24,7 +24,7 @@ function Header(){
                   <a href="#" class="p-3 hover:text-white">ABOUT</a>
               </li>
               <li class="sm:inline-block">
-                  <a href="#" class="p-3 hover:text-white">RESUME</a>
+                  <a href="#" class="p-3 hover:text-black">RESUME</a>
               </li>
              </ul>
              </div>
